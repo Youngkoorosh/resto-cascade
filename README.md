@@ -1,5 +1,5 @@
 # 🍽️ resto-cascade  
-_Designing restaurant category UI with semantic CSS & poetic precision_
+_Designing restaurant category UI with semantic CSS_
 
 ---
 
